@@ -1,0 +1,6 @@
+theia@theiadocker-opcraft269:/home/project/Emotion-Detector-using-Watson-AI$ python3.11 test_emotion_detection.py 
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.636s
+
+OK
